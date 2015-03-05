@@ -1,4 +1,4 @@
-This is created by me just now.
+This is created by mayil
 
 {\rtf1\ansi\ansicpg1252\cocoartf1344\cocoasubrtf720
 {\fonttbl\f0\froman\fcharset0 Times-Roman;\f1\fnil\fcharset0 HelveticaNeue;}
